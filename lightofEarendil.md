@@ -1,22 +1,4 @@
 
-- **Project Name:** Light of Eärendill
-- **Team Name:** Jeeltcraft
-- **Payment Address:** jilt.near
-- **[Level](../README.md#level_slider-levels):** 1
-
-> ⚠️ *The combination of your GitHub account submitting the app&lication and the payment address above will be your unique identifier during the program. Please keep them safe.*
-
-## Project Overview :page_facing_up:
-
-This is a follow up project for the Varda Vault unlockable content project launch, the Vault was funded by humanguild.io. The light of Eãrendil is built to engage the blender.org 3D creative community in minting on the near Blockchain using the mintbase standard smart contract and the Varda Vault unlockable content service directly from the blender 3D editor interface.
-### Overview
-
-Please provide the following:
-
-- A python addon for the open source blender UI to mint a 3D render and lock the source file as unlockable content.
-- Blender files are db files full of reusable assets for people to reproduce the rendered art, by selling a render and locking the corresponding .blend file you share your creative solution along with the nft. The market for this solutions on gumroad is very spread and used around the world.
-- This project is built to spread news about the mintbase minting platform and smart contracts AND the varda vault in a creative community that has been growing and thriving for almost two decades, a community of creators that is used to spread news through YouTube channels and Twitter accounts if they like an addon, 
-people have built businesses on suggesting the right addon for blender (example https://blender-addons.org/)
 
 ### Project Details
 
